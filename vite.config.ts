@@ -35,7 +35,7 @@ export default defineConfig(async () => {
             {
               binding: "DB",
               database_name: "daso-montageplanung",
-              database_id: "00000000-0000-4000-8000-000000000000",
+              database_id: "42f5d224-bb84-4fd2-a1f8-d6abfda88956",
             },
           ],
           r2_buckets: [{ binding: "BUCKET", bucket_name: "daso-montageplanung-files" }],
